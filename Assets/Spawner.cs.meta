@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8f4abf90b930cd4c90e8c4d915c86dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {fileID: 619854526622293062, guid: 5c525054df0825a4fb455e2bad8659ca, type: 3}
+  - redSprite: {fileID: 21300000, guid: 3534a0298fdae6b47b9e58fb4191c3ea, type: 3}
+  - greenSprite: {fileID: 21300000, guid: d2d65a841e66e3b459193dce7440b194, type: 3}
+  - blueSprite: {fileID: 21300000, guid: 2dea28146371aba418634f0eed709996, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
